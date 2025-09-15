@@ -35,7 +35,7 @@ I’m excited by tech and programming and eager to expand my skills through hand
 ---
 
 ## 🤝 Connect with me
-- Email: [franciscocosta2000@gmail.com](mailto:franciscocosta2000@gmail.com)
+- Email: [francisco.carvalho1242@gmail.com](mailto:francisco.carvalho1242@gmail.com)
 - LinkedIn: www.linkedin.com/in/-francisco-carvalho-
 
 > **Currently looking for employment.**
