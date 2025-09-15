@@ -4,6 +4,10 @@ I’m a recent **Computer Engineering** graduate based in Portugal.
 
 I’m excited by tech and programming and eager to expand my skills through hands-on projects.
 
+![Xicocc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xicocc&layout=compact&langs_count=8&theme=dark)
+
+
+
 ---
 
 ## 📌 Portfolio
